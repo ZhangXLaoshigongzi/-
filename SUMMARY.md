@@ -8,3 +8,4 @@
 * [半日飞度烟雨](ban-ri-fei-du-yan-yu.md)
 * [望乡](wang-xiang.md)
 * [目平](mu-ping.md)
+* [梦中偶得](meng-zhong-ou-de.md)
