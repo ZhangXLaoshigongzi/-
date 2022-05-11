@@ -27,3 +27,4 @@
 * [尖岗顶遇通天大王](jian-gang-ding-yu-tong-tian-da-wang.md)
 * [和久哥夏日荷花漫游](he-jiu-ge-xia-ri-he-hua-man-you.md)
 * [闻秋雨待静](wen-qiu-yu-dai-jing.md)
+* [苍花浮月](cang-hua-fu-yue.md)
