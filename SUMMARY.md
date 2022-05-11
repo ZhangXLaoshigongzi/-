@@ -25,3 +25,4 @@
 * [无弦](wu-xian.md)
 * [万佛顶二人同游](wan-fo-ding-er-ren-tong-you.md)
 * [尖岗顶遇通天大王](jian-gang-ding-yu-tong-tian-da-wang.md)
+* [和久哥夏日荷花漫游](he-jiu-ge-xia-ri-he-hua-man-you.md)
