@@ -12,3 +12,4 @@
 * [劫中趣](jie-zhong-qu.md)
 * [春夜难眠](chun-ye-nan-mian.md)
 * [咏春](yong-chun.md)
+* [邵阳县晚游](shao-yang-xian-wan-you.md)
