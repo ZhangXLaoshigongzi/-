@@ -9,3 +9,4 @@
 * [望乡](wang-xiang.md)
 * [目平](mu-ping.md)
 * [梦中偶得](meng-zhong-ou-de.md)
+* [劫中趣](jie-zhong-qu.md)
