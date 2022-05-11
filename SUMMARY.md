@@ -20,3 +20,4 @@
 * [望岳麓山雾秋](wang-yue-lu-shan-wu-qiu.md)
 * [春来](chun-lai.md)
 * [盼夏](pan-xia.md)
+* [黄山行迹](huang-shan-hang-ji.md)
