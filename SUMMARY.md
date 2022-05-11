@@ -28,3 +28,4 @@
 * [和久哥夏日荷花漫游](he-jiu-ge-xia-ri-he-hua-man-you.md)
 * [闻秋雨待静](wen-qiu-yu-dai-jing.md)
 * [苍花浮月](cang-hua-fu-yue.md)
+* [五台秋游](wu-tai-qiu-you.md)
