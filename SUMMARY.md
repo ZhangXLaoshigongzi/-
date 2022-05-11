@@ -29,3 +29,4 @@
 * [闻秋雨待静](wen-qiu-yu-dai-jing.md)
 * [苍花浮月](cang-hua-fu-yue.md)
 * [五台秋游](wu-tai-qiu-you.md)
+* [姑苏偶记](gu-su-ou-ji.md)
